@@ -1,0 +1,31 @@
+.done
+{
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+
+.done:hover
+{
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+
+input
+{
+  margin-bottom: 0.25em;
+}
+
+#title
+{
+  text-align: center;
+}
+
+body
+{
+  background-color: #75d5cc;
+}
+
+#addNewTask
+{
+  background-color: #3b8bc2;
+}
